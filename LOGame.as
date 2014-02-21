@@ -1,6 +1,6 @@
 ﻿/*
 SCOMaster Game
-programmed by Matt Perkins, matthew.perkins@bankofamerica.com, kheavy@nudoru.com
+programmed by Matt Perkins, kheavy@nudoru.com
 
 TODO:
 1. sweepLOs function should use a var to switch between maps, not 2 IF blocks
